@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "MadeUpBar",
+        "review": "Excellent"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.92408752441406,
+          -37.795813655432426
+        ]
+      }
+    }
+  ]
+}
